@@ -1,0 +1,10 @@
+Answer1: 8
+Answer2: 11
+Answer3: 1/4
+Answer4: 25/4
+Answer5: 9
+Answer6: 12
+Answer7: 31
+Answer8: 7/8
+Answer9: 7
+Answer10: 10
