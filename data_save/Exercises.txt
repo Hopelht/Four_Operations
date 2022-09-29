@@ -1,0 +1,10 @@
+Question1: 9 + 8 ÷ 6 =
+Question2: 8 + 9 =
+Question3: 1 × 10 =
+Question4: ( 9 × 10 ) - 1 =
+Question5: 5 × 1 ÷ 4 =
+Question6: 9 - 7 ÷ 3 ÷ 1 =
+Question7: 1 × 7 + 2 =
+Question8: 10 + 1 =
+Question9: 2 + 8 =
+Question10: 2/7 ÷ ( 7 × 1 ) =
